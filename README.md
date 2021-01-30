@@ -1,3 +1,3 @@
 # Introduction_to_Pytorch
 
-url: https://www.youtube.com/watch?v=Gm9Spk2Nmj0&list=PLHOsBEAyYj3xf4i20sCA5o8MgVW5sIiHD&index=11
+data_preprocessing : https://www.youtube.com/watch?v=8PnxJ3s3Cwo&list=PLHOsBEAyYj3xf4i20sCA5o8MgVW5sIiHD&index=10
