@@ -1,4 +1,0 @@
-[0.1028, 0.1028, 0.1028, 0.1135, 0.098]
-[nan, nan, nan, nan, nan]
-[nan, nan, nan, nan, nan]
-
