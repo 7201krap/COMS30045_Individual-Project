@@ -1,0 +1,42 @@
+0
+[0.9548, 0.9589, 0.9643, 0.9673, 0.9666, 0.9652, 0.9658, 0.9679, 0.9667, 0.9659, 0.9705, 0.9684, 0.972, 0.9667, 0.9732, 0.9703, 0.9696, 0.9723, 0.973, 0.9711]
+[tensor(0.6125, grad_fn=<MeanBackward0>), tensor(0.6307, grad_fn=<MeanBackward0>), tensor(0.6378, grad_fn=<MeanBackward0>), tensor(0.6410, grad_fn=<MeanBackward0>), tensor(0.6370, grad_fn=<MeanBackward0>), tensor(0.6439, grad_fn=<MeanBackward0>), tensor(0.6367, grad_fn=<MeanBackward0>), tensor(0.6416, grad_fn=<MeanBackward0>), tensor(0.6436, grad_fn=<MeanBackward0>), tensor(0.6308, grad_fn=<MeanBackward0>), tensor(0.6383, grad_fn=<MeanBackward0>), tensor(0.6314, grad_fn=<MeanBackward0>), tensor(0.6474, grad_fn=<MeanBackward0>), tensor(0.6507, grad_fn=<MeanBackward0>), tensor(0.6421, grad_fn=<MeanBackward0>), tensor(0.6418, grad_fn=<MeanBackward0>), tensor(0.6403, grad_fn=<MeanBackward0>), tensor(0.6388, grad_fn=<MeanBackward0>), tensor(0.6368, grad_fn=<MeanBackward0>), tensor(0.6465, grad_fn=<MeanBackward0>)]
+0.6950854020952933
+0.13856125800698443
+
+1
+[0.9577, 0.9701, 0.9658, 0.9715, 0.9746, 0.9731, 0.9739, 0.9758, 0.9749, 0.9697, 0.9706, 0.9782, 0.9788, 0.9767, 0.9783, 0.9781, 0.979, 0.9792, 0.9783, 0.9788]
+[tensor(0.6383, grad_fn=<MeanBackward0>), tensor(0.6667, grad_fn=<MeanBackward0>), tensor(0.6757, grad_fn=<MeanBackward0>), tensor(0.6699, grad_fn=<MeanBackward0>), tensor(0.6689, grad_fn=<MeanBackward0>), tensor(0.6681, grad_fn=<MeanBackward0>), tensor(0.6678, grad_fn=<MeanBackward0>), tensor(0.6622, grad_fn=<MeanBackward0>), tensor(0.6742, grad_fn=<MeanBackward0>), tensor(0.6709, grad_fn=<MeanBackward0>), tensor(0.6689, grad_fn=<MeanBackward0>), tensor(0.6673, grad_fn=<MeanBackward0>), tensor(0.6646, grad_fn=<MeanBackward0>), tensor(0.6640, grad_fn=<MeanBackward0>), tensor(0.6626, grad_fn=<MeanBackward0>), tensor(0.6560, grad_fn=<MeanBackward0>), tensor(0.6564, grad_fn=<MeanBackward0>), tensor(0.6545, grad_fn=<MeanBackward0>), tensor(0.6539, grad_fn=<MeanBackward0>), tensor(0.6536, grad_fn=<MeanBackward0>)]
+0.7073328472743616
+0.14633178043751705
+
+2
+[0.9573, 0.9659, 0.9713, 0.9753, 0.97, 0.9782, 0.978, 0.9772, 0.9762, 0.9803, 0.9814, 0.9814, 0.9826, 0.9821, 0.9826, 0.9822, 0.9823, 0.9826, 0.9824, 0.9825]
+[tensor(0.6762, grad_fn=<MeanBackward0>), tensor(0.6906, grad_fn=<MeanBackward0>), tensor(0.6886, grad_fn=<MeanBackward0>), tensor(0.6940, grad_fn=<MeanBackward0>), tensor(0.6955, grad_fn=<MeanBackward0>), tensor(0.6928, grad_fn=<MeanBackward0>), tensor(0.6901, grad_fn=<MeanBackward0>), tensor(0.6906, grad_fn=<MeanBackward0>), tensor(0.6817, grad_fn=<MeanBackward0>), tensor(0.6832, grad_fn=<MeanBackward0>), tensor(0.6818, grad_fn=<MeanBackward0>), tensor(0.6724, grad_fn=<MeanBackward0>), tensor(0.6668, grad_fn=<MeanBackward0>), tensor(0.6636, grad_fn=<MeanBackward0>), tensor(0.6602, grad_fn=<MeanBackward0>), tensor(0.6582, grad_fn=<MeanBackward0>), tensor(0.6560, grad_fn=<MeanBackward0>), tensor(0.6548, grad_fn=<MeanBackward0>), tensor(0.6546, grad_fn=<MeanBackward0>), tensor(0.6529, grad_fn=<MeanBackward0>)]
+0.6716437903049058
+0.15847638597548325
+
+3
+[0.9652, 0.9701, 0.9725, 0.9705, 0.9763, 0.976, 0.9781, 0.9794, 0.9804, 0.9797, 0.9817, 0.9812, 0.9824, 0.9814, 0.9821, 0.982, 0.9819, 0.9824, 0.9824, 0.9825]
+[tensor(0.6993, grad_fn=<MeanBackward0>), tensor(0.7164, grad_fn=<MeanBackward0>), tensor(0.7200, grad_fn=<MeanBackward0>), tensor(0.7243, grad_fn=<MeanBackward0>), tensor(0.7302, grad_fn=<MeanBackward0>), tensor(0.7220, grad_fn=<MeanBackward0>), tensor(0.7312, grad_fn=<MeanBackward0>), tensor(0.7242, grad_fn=<MeanBackward0>), tensor(0.7202, grad_fn=<MeanBackward0>), tensor(0.7189, grad_fn=<MeanBackward0>), tensor(0.7117, grad_fn=<MeanBackward0>), tensor(0.7107, grad_fn=<MeanBackward0>), tensor(0.7043, grad_fn=<MeanBackward0>), tensor(0.6999, grad_fn=<MeanBackward0>), tensor(0.6989, grad_fn=<MeanBackward0>), tensor(0.6953, grad_fn=<MeanBackward0>), tensor(0.6948, grad_fn=<MeanBackward0>), tensor(0.6934, grad_fn=<MeanBackward0>), tensor(0.6926, grad_fn=<MeanBackward0>), tensor(0.6911, grad_fn=<MeanBackward0>)]
+0.6499534321941929
+0.16412205646104844
+
+4
+[0.9534, 0.9669, 0.9687, 0.9749, 0.9725, 0.9773, 0.9803, 0.9757, 0.9783, 0.9818, 0.981, 0.9815, 0.9821, 0.9817, 0.9827, 0.9828, 0.983, 0.9825, 0.9828, 0.983]
+[tensor(0.7065, grad_fn=<MeanBackward0>), tensor(0.7283, grad_fn=<MeanBackward0>), tensor(0.7395, grad_fn=<MeanBackward0>), tensor(0.7369, grad_fn=<MeanBackward0>), tensor(0.7369, grad_fn=<MeanBackward0>), tensor(0.7376, grad_fn=<MeanBackward0>), tensor(0.7373, grad_fn=<MeanBackward0>), tensor(0.7291, grad_fn=<MeanBackward0>), tensor(0.7294, grad_fn=<MeanBackward0>), tensor(0.7218, grad_fn=<MeanBackward0>), tensor(0.7191, grad_fn=<MeanBackward0>), tensor(0.7164, grad_fn=<MeanBackward0>), tensor(0.7133, grad_fn=<MeanBackward0>), tensor(0.7102, grad_fn=<MeanBackward0>), tensor(0.7075, grad_fn=<MeanBackward0>), tensor(0.7057, grad_fn=<MeanBackward0>), tensor(0.7040, grad_fn=<MeanBackward0>), tensor(0.7032, grad_fn=<MeanBackward0>), tensor(0.7022, grad_fn=<MeanBackward0>), tensor(0.7014, grad_fn=<MeanBackward0>)]
+0.6343522994140471
+0.151762656231022
+
+5
+[0.9608, 0.972, 0.972, 0.9728, 0.9721, 0.9778, 0.9774, 0.9763, 0.9785, 0.98, 0.9822, 0.9836, 0.9832, 0.9844, 0.9833, 0.9833, 0.984, 0.9839, 0.9836, 0.9834]
+[tensor(0.7087, grad_fn=<MeanBackward0>), tensor(0.7373, grad_fn=<MeanBackward0>), tensor(0.7510, grad_fn=<MeanBackward0>), tensor(0.7556, grad_fn=<MeanBackward0>), tensor(0.7539, grad_fn=<MeanBackward0>), tensor(0.7582, grad_fn=<MeanBackward0>), tensor(0.7553, grad_fn=<MeanBackward0>), tensor(0.7527, grad_fn=<MeanBackward0>), tensor(0.7554, grad_fn=<MeanBackward0>), tensor(0.7458, grad_fn=<MeanBackward0>), tensor(0.7414, grad_fn=<MeanBackward0>), tensor(0.7402, grad_fn=<MeanBackward0>), tensor(0.7367, grad_fn=<MeanBackward0>), tensor(0.7344, grad_fn=<MeanBackward0>), tensor(0.7324, grad_fn=<MeanBackward0>), tensor(0.7305, grad_fn=<MeanBackward0>), tensor(0.7298, grad_fn=<MeanBackward0>), tensor(0.7282, grad_fn=<MeanBackward0>), tensor(0.7272, grad_fn=<MeanBackward0>), tensor(0.7264, grad_fn=<MeanBackward0>)]
+0.6219284586853149
+0.15484078805273216
+
+6
+[0.9642, 0.9679, 0.9731, 0.972, 0.975, 0.9764, 0.9737, 0.979, 0.9786, 0.9814, 0.9817, 0.9825, 0.9834, 0.9834, 0.9832, 0.9836, 0.983, 0.9833, 0.9833, 0.9834]
+[tensor(0.7111, grad_fn=<MeanBackward0>), tensor(0.7450, grad_fn=<MeanBackward0>), tensor(0.7590, grad_fn=<MeanBackward0>), tensor(0.7645, grad_fn=<MeanBackward0>), tensor(0.7688, grad_fn=<MeanBackward0>), tensor(0.7665, grad_fn=<MeanBackward0>), tensor(0.7686, grad_fn=<MeanBackward0>), tensor(0.7650, grad_fn=<MeanBackward0>), tensor(0.7659, grad_fn=<MeanBackward0>), tensor(0.7620, grad_fn=<MeanBackward0>), tensor(0.7604, grad_fn=<MeanBackward0>), tensor(0.7569, grad_fn=<MeanBackward0>), tensor(0.7544, grad_fn=<MeanBackward0>), tensor(0.7516, grad_fn=<MeanBackward0>), tensor(0.7499, grad_fn=<MeanBackward0>), tensor(0.7483, grad_fn=<MeanBackward0>), tensor(0.7477, grad_fn=<MeanBackward0>), tensor(0.7467, grad_fn=<MeanBackward0>), tensor(0.7456, grad_fn=<MeanBackward0>), tensor(0.7452, grad_fn=<MeanBackward0>)]
+0.6065239534680913
+0.13770454656875356
+
