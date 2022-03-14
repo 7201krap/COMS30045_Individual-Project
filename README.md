@@ -3,5 +3,4 @@ Researched which conditions naturally increase sparsity and selectivity in a neu
 
 - All codes and graphs could be found in 'code and graphs/summative' folder
 
-- Thesis full version: 
-https://drive.google.com/file/d/1e3fn3bZma3BzxUZwgNaUR0GSKTO8WTk2/view?usp=sharing 
+- Thesis full version: https://arxiv.org/abs/2201.11653
